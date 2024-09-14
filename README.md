@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name :Sanjith.R
-### Roll no :212223230191
+### Name :Ganesh G
+### Roll no :212223230059
 ### Date of experiment :12/09/24
 
 
